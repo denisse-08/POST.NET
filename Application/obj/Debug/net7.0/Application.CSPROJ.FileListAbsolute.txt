@@ -1,0 +1,15 @@
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.CSPROJ.AssemblyReference.cache
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.CSPROJ.CoreCompileInputs.cache
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.CSPROJ.CopyComplete
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Denisse\Documents\GitHub\ASP7\EasyPOS\Application\obj\Debug\net7.0\ref\Application.dll
